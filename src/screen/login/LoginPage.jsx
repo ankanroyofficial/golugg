@@ -35,7 +35,6 @@ export default function LoginPage() {
                         "mobile": phone,
                         "password": password,
                         "firebase_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9"
-
                     }
                 }
                 )
